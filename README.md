@@ -23,4 +23,4 @@ It is a well-understood dataset. All the variables are continuous and generally 
 #### Smaller Network
 - The data describes the same signal from different angles. Perhaps some of those angles are more relevant than others. So you can force a type of feature extraction by the network by restricting the representational space in the first hidden layer.
 #### Larger Network
-- A neural network topology with more layers offers more opportunities for the network to extract key features and recombine them in useful nonlinear ways
+- A neural network topology with more layers offers more opportunities for the network to extract key features and recombine them in useful nonlinear ways.
